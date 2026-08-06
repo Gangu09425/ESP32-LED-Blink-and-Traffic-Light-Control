@@ -84,6 +84,7 @@ A simple traffic light system using three LEDs connected to the ESP32.
 
 ### LED Blinking
 
+	
 ![LED Blink](Images/led_blink_wokwi.png)
 
 ### Arduino IDE
